@@ -1,4 +1,5 @@
 package ru.yandex.practicum.delivery;
+
 public abstract class Parcel {
     private final String description;
     private final int weight;

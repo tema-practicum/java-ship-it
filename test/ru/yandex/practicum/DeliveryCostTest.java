@@ -1,7 +1,9 @@
 package ru.yandex.practicum;
 
 import org.junit.jupiter.api.Test;
+
 import static org.junit.jupiter.api.Assertions.*;
+
 import ru.yandex.practicum.delivery.*;
 
 class DeliveryCostTest {
